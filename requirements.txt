@@ -1,0 +1,7 @@
+wheel
+pandas
+notebook
+matplotlib
+python-binance
+
+
